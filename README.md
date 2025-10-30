@@ -14,4 +14,3 @@ Others: Streamlit, Git
 
 I have created projects with all my above mentioned skills and I am confident with them
 with a strong foundation in DS and OOP.
-My major focus lies in further polishing my ML, NLP, RAG and backend skills tech stack.

@@ -11,6 +11,3 @@ My Skills Include:
 5) Game Engines: Unity and Godot
 6) Design: Blender, Photoshop
 Others: Streamlit, Git
-
-I have created projects with all my above mentioned skills and I am confident with them
-with a strong foundation in DS and OOP.
